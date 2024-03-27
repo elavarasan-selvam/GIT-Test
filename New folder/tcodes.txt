@@ -1,0 +1,45 @@
+1. /iwfnd/maint_service --> OData service   -   /n/IWFND/MAINT_SERVICE
+2. /n/iwfnd/traces -->payload trace
+3. /o/syclo/configpanel
+4. /o/iwfnd/error_log -->error log
+ 
+Work Order
+IW33 - Display / View only
+IW32 - Edit / Change
+IW31 - Create(you can also add a reference work order so that the details are automatically filled)- after created , release the work order
+ 
+Notification
+IW23 - Display / View only
+IW22 - Edit / Change
+IW21 - Create- only take the reference and no need to release the notification
+ 
+Equipment
+IE03 - Display / View only
+IE02 - Edit / Change
+IE01 - Create
+ 
+IL03 - Function location
+Ih06- functional location
+/n/iwfnd/maint_service
+/nse01 - TR
+/CATS- TIME SHEET ENTRY (LABOUR TIME)
+/osu3 - Maintain user parameter
+/oPA30 - Personal no assignment
+info type - 105, STY - 001
+scc1 - to transport TR from one client to another
+se11 - For table view
+Iw43-time confirmation
+Inspection lot / Result recording:
+IP10 - Schedule the Maint Plan
+Order type - PM03
+Priority - High
+FL - FLOC-whose ABC Indicator - A
+FL - FLOC-T1
+Task List is assigned on the Maint Plan - IP03
+QA32 - To change IL and record results
+IW41 - Labor time
+SE24-CLASS
+SE18-ENHANCEMENT SPOT
+Trace you can on when you want to sync and check the data
+/n/iwfnd/traces
+has context menu

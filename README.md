@@ -3,17 +3,4 @@ GIT Test
 
 This is a sample ReadMe updated by Ela
 
-
-Latest change by Ashok.
-
-
-
-This change is made by me.
-Atlast we found the solution.
-
-
-One last try.
-
-Third change 
-Ashok
-
+Hi Ela this change is by 5.42PM
